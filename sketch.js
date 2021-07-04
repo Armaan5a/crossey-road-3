@@ -5,7 +5,7 @@ function preload(){
   car1=loadImage("images/car1.png")
   car=loadImage("images/car2.png")
   log=loadImage("images/log2.png")
-  p1=loadImage("images/Player-03.png")
+  pl=loadImage("images/Player-03.png")
 }
 
 function setup() {
