@@ -1,4 +1,4 @@
-var carG,logG,pl;
+var carG,logG,pl,p1;
 var carAnimation, logAnimation, playerAnimation;     
 
 function preload(){
